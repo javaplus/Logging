@@ -6,7 +6,7 @@ public class MarkService implements IMarkService{
 
 	@Override
 	public void storeMark(Mark mark) {
-		
+		// must store a Mark to the system(file or DB)
 		
 		
 	}
